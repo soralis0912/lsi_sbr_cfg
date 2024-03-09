@@ -7,33 +7,29 @@ seq:
     type: card_config
   - id: config_2
     type: card_config
-  - id: dummy11
+  - id: dummy01
     type: u8
-  - id: dummy12
+  - id: dummy02
     type: u8
-  - id: dummy13
+  - id: dummy03
     type: u8
-  - id: dummy14
+  - id: dummy04
     type: u8
-  - id: dummy15
+  - id: dummy05
     type: u8
-  - id: dummy16
+  - id: dummy06
     type: u8
-  - id: dummy17
-    type: u8
-  - id: dummy18
-    type: u4
   - id: sasaddr00
     type: u8
-  - id: dummpy19
+  - id: dummy07
     type: u8
-  - id: dummpy20
+  - id: dummy08
     type: u4
-  - id: dummpy21
+  - id: dummy09
     type: u1
-  - id: dummpy22
+  - id: dummy10
     type: u1
-  - id: dummpy23
+  - id: dummy11
     type: u1
   - id: addrchecksum
     type: u1
