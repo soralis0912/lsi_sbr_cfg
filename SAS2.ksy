@@ -19,20 +19,28 @@ seq:
     type: u8
   - id: dummy06
     type: u8
-  - id: sasaddr00
-    type: u8
   - id: dummy07
     type: u8
   - id: dummy08
-    type: u4
-  - id: dummy09
-    type: u1
+    type: u8
+  - id: sasaddr
+    type: s8be
   - id: dummy10
-    type: u1
+    type: u8
   - id: dummy11
+    type: u4
+  - id: dummy12
+    type: u1
+  - id: dummy13
+    type: u1
+  - id: dummy14
     type: u1
   - id: addrchecksum
     type: u1
+  - id: dummy15
+    type: u8
+  - id: dummy16
+    type: u8
   
 types:
   card_config:
